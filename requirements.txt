@@ -1,4 +1,0 @@
-aiogram==3.4.1
-flask==2.3.3
-aiohttp==3.9.3
-python-dotenv==1.0.0
